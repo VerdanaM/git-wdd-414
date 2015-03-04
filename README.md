@@ -7,7 +7,7 @@ Testrepository
 Beispiel Überschrift 2
 ----------------------
 
-Auch ein bisschen *Markdown* im Unterricht hat noch **niemandem* geschadet.
+Auch ein bisschen *Markdown* im Unterricht hat noch **niemandem** geschadet.
 
 ```php
 <?php
