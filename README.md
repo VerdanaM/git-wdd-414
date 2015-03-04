@@ -9,18 +9,15 @@ Beispiel Überschrift 2
 
 Auch ein bisschen *Markdown* im Unterricht hat noch **niemandem* geschadet.
 
-´´´php
+```php
 <?php
 echo 'Ja, genau!';
 ?>
 ```
 
-Weiter Beispiele sehene sie in der beigelegten index.php.
+Weiter Beispiele sehene Sie in der beigelegten index.php.
 
-
-
-
-``js
+```js
 console.log('winwin');
 ```
 
