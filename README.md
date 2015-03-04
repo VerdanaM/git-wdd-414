@@ -15,6 +15,10 @@ echo 'Ja, genau!';
 ?>
 ```
 
+Weiter Beispiele sehene sie in der beigelegten index.php.
+
+
+
 
 ``js
 console.log('winwin');
