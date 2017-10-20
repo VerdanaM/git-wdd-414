@@ -1,4 +1,4 @@
 <?php
 
-echo "Ohooo PHP hurra!!";
+echo "this is so very new!!";
 ?>
